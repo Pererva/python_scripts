@@ -1,2 +1,2 @@
 # python_scripts
-Just various scripts fr personal purposes on python 3
+Just various scripts for personal purposes on python 3
